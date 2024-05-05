@@ -1,0 +1,11 @@
+{
+  "name": "toss-lib",
+  "version": "1.0.0",
+  "description": "toss lib",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ReverseT",
+  "license": "MIT"
+}
